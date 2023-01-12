@@ -9,7 +9,8 @@ app.layout = html.Div(
     [
         html.H1("Layout Prototype"),
         """
-        I am struggling
+        Josh edits, 624
+        
         """,
     ]
 )
